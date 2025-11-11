@@ -1,4 +1,4 @@
-### **Project Proposal: SearchNewsEngine - A Real-time News Topic Tracking System with Parallel Computing**
+### **Project Proposal: SearchNewsEngine - A News Topic Tracking System **
 
 #### **1. Project Name**
 
@@ -13,18 +13,11 @@ Team Name: P.B group
 
 In the age of information explosion, news media face significant challenges:
 
-- **Information Overload:** Inability to manually track all news sources in real-time.
+- **Information Overload:** Inability to manually track all news sources every day.
 - **Trend Lag:** Difficulty in promptly identifying emerging topics, leading to missed hotspots.
+- **Generate hashtag：** System could generate the hotspot hashtag。
 
-#### **4. How We Incorporate Parallel Computing**
-
-    Parallel Data Ingestion :
-
-        Create multiple producer threads, each independently responsible for crawling data from different news sources (e.g., RSS Feeds from BBC, Reuters, CNN).
-
-        This significantly improves data collection throughput, preventing one slow source from slowing down the entire system.
-
-#### **5. How We Incorporate Information Retrieval**
+#### **4. How We Incorporate Information Retrieval**
 
     Indexing:
 
