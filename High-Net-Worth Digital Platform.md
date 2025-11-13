@@ -9,7 +9,7 @@
 
 ### Expectations & Motivations
 - **Privacy & Security**: A foundational requirement—not just a feature. Demand top-tier protection for conversations, data, and identity.
-- **Exclusivity & Belonging**: The membership门槛 acts as a value filter. Users seek trusted circles with peers or higher-caliber individuals.
+- **Exclusivity & Belonging**: The membership acts as a value filter. Users seek trusted circles with peers or higher-caliber individuals.
 
 ### Competitive Landscape Analysis
 | Platform      | Strengths                                  | Improvement Opportunities                |
